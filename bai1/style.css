@@ -1,0 +1,53 @@
+.container{
+    padding: 0px;
+    margin: 0px;
+    border: 0;
+    width: 730px;
+    height: 500px;
+    background-color: #4cd43a93;
+    font-size: 18px;
+    margin: 50px 200px;
+    
+}
+form{
+  padding-top: 30px;
+  padding-left: 50px;
+}
+input#first{
+    width: 200px;
+    height: 30px;
+}
+input#last{
+    width: 200px;
+    height: 30px;
+}
+input#email{
+    width: 413px;
+    height: 30px;
+}
+select{
+    width: 422px;
+    height: 36px;
+    font-size: 16px;
+    color: #757575;
+}
+textarea{
+    width: 413px;
+    height: 100px;
+}
+input#submit{
+    margin-top: 20px;
+    background-color: #4b99ad;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 90px;
+}
+label{
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+}
+span{
+    color: red;
+}

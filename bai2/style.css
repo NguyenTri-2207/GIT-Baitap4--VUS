@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    height: 35px;
+    background-color: #ffcc00;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    margin: 15px 0px;
+}
+.forms{
+    width: 730px;
+    height: 500px;
+    background-color: #ffff99;
+    font-size: 18px;
+   margin: 50px 200px;
+    
+}
+
+input{
+    padding-left:10px;
+    border: 1px solid rgb(240, 234, 234);
+}  
+
+.col-25{
+    float: left;
+    width: 25%;
+    margin-top: 15px;
+    text-align: right;
+}
+.col-75{
+    float: left;
+    width: 70%;
+    margin-top: 15px;
+    margin-left: 3%;
+}
